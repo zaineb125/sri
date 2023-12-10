@@ -1,0 +1,5 @@
+Orchestration des Services : L'EAI joue un rôle clé dans l'orchestration des services, coordonnant les appels entre différentes applications pour exécuter de manière transparente des processus métier complexes.
+
+Intégration des Systèmes Hétérogènes : L'EAI simplifie l'intégration des systèmes informatiques hétérogènes en agissant comme une couche sécurité d'abstraction et de médiation, favorisant une interaction harmonieuse entre les applications diverses.
+
+Sécurité : L'EAI offre des mécanismes de sécurité essentiels, tels que la gestion des identités, le chiffrement et le contrôle d'accès. Ces fonctionnalités garantissent la sécurité des échanges d'informations entre les différentes applications.
